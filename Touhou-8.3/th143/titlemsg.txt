@@ -1,9 +1,9 @@
 @1,100
 What is Happening here?
-I need to investigate!   
+I need to investigate!
 
 @2,100
-Something strange's going on  
+Something strange's going on
 I can feel it!
 
 @3,100
