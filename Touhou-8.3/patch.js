@@ -1,7 +1,7 @@
 {
-    "dependencies": [
-        "nmlgc/base_tsa",
-        "nmlgc/script_latin"
+	"dependencies": [
+		"nmlgc/base_tsa",
+		"nmlgc/script_latin"
 	],
 	"id": "Touhou-8.3",
 	"servers": [

@@ -1,0 +1,115 @@
+﻿<html>
+<head background="data-/back.png">
+    <title>Touhou Impossible Night ~ HTML Readme</title>
+    <script type="text/javascript">
+        function fore()
+        {
+            document.images[0].width  =390;
+            document.images[0].height = 90;
+        }
+        function oute(   )
+        {
+            document.images[0].width  = 400;
+            document.images[0].height = 100;
+        }
+
+    </script>
+    <style type="text/css">
+       
+        h1 {
+            color: #3e0505;
+            font-family: Arial,sans-serif;
+            background: url(Data/back3.png) repeat scroll left top;
+        }
+
+        p {
+            color: #0000000;
+            font-family: Arial,sans-serif;
+            font-size: 14px;
+            margin: 10px;
+            background: url(Data/back3.png) repeat scroll left top;
+        }
+
+        img {
+            resize: both;
+            margin-left:20px;
+        }
+
+        table {
+            background: url(Data/back2.png) repeat scroll left top;
+            text-align: center;
+            margin-top: 0px;
+        }
+
+        html {
+            height: 180px;
+            background: url(Data/back.png) repeat scroll left top;
+            text-align: center;
+            margin-top: -30px;
+        }
+        th {
+        }
+        .texx {
+            background: url(Data/fast.png) repeat scroll left top;
+        }
+        
+    </style>
+
+</head>
+<body>
+    <br />
+    <br />
+    <a href="index.html"><img src="Data/back4.png" align="center" width="400" height="100" onmouseover="fore()" onmouseout="oute()" id="BACK"/></a>
+    <img src="Data/which.png" align="center" width="400" height="100" />
+    <br />
+    <table border="1" align="center">
+        <tr>
+            <th>
+                <div class="texx"></div>
+                <br />
+                <h1>Which version should i use?</h1>
+                <p align="right">version 1.0</p>
+                <br />
+                <p align="left">So you wondering why there are 2 options? let me explain it.</p>
+                <p align="left">At first, you have to know that every version has its pros ant contras<br />In this Text I try to give you enough informations so that you can choose the perfect one for you</p>
+                <br />
+                <h1>About the THcrap version</h1>
+                <p align="left">At first: This Version needs a few steps to install, and needs more patience. But if you completed these, you doesn't have to do anything again.<br /><br />The best thing, beside the better stability, is the auto-Update feture that, as its name says, <br />automaticly downloads every patch i make for this (for example when i made a scene better or something) without even molests you with a message<br />At the end, I recommend this Version, but, especially if you don't used Thcrap til now, its a lot easier and less frustating to download the DD version</p>
+                <h1>About the DirectDownload Version</h1>
+                <p align="left">As i sayed a ton of times before, this version is for persons that don't know thcrap or don't want to do all the stuff the Thcrap version needs.<br />But you have to download every minor Update manually and check my site for new Updates, which you do get in the Thcrap version<br /><br />On the other side, this Version gives you a simple executable that you just have to start<br />The big flow of this version is the running stability. <br />That meens the Program has a higher chance to crash randomly or at the start of a scence (thats the main point I created the THcrap version)</p>
+     </table>
+</body>
+<script src="Data/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" charset="utf-8">
+    var scrollSpeed = 1; 		// Speed in milliseconds
+    var step = 1; 				// How many pixels to move per step
+    var current = 0;			// The current pixel row
+    var imageWidth = 128;		// Background image width
+    var headerWidth = 128;		// How wide the header is.
+
+    //The pixel row where to start a new loop
+    var restartPosition = -(imageWidth - headerWidth);
+
+    function scrollBg() {
+        //Go to next pixel row.
+        current -= step;
+
+        //If at the end of the image, then go to the top.
+        if (current == restartPosition) {
+            current = 0;
+        }
+
+        //Set the CSS of the header.
+        $('html').css("background-position", current + "px " + current / 2 + "px");
+        $('table').css("background-position", -current +current + "px " + -current / 3 + "px");
+    }
+
+    //Calls the scrolling function repeatedly
+    var init = setInterval("scrollBg()", scrollSpeed);
+</script>
+
+
+
+
+</html>

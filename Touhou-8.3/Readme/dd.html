@@ -1,0 +1,164 @@
+﻿<html>
+<head background="data-/back.png">
+    <title>Touhou Impossible Night ~ HTML Readme</title>
+    <style type="text/css">
+        h1 {
+            color: #3e0505;
+            font-family: Arial,sans-serif;
+            background: url(Data/back3.png) repeat scroll left top;
+        }
+
+        p {
+            color: #0000000;
+            font-family: Arial,sans-serif;
+            font-size: 14px;
+            margin: 10px;
+            background: url(Data/back3.png) repeat scroll left top;
+        }
+
+        img {
+            resize: both;
+            margin-left:20px;
+        }
+
+        table {
+            background: url(Data/back2.png) repeat scroll left top;
+            text-align: center;
+            margin-top: 0px;
+        }
+
+        html {
+            height: 180px;
+            background: url(Data/back.png) repeat scroll left top;
+            text-align: center;
+            margin-top: -30px;
+        }
+        th {
+        }
+        .texx {
+            background: url(Data/fast.png) repeat scroll left top;
+        }
+    </style>
+
+</head>
+<body>
+    <br />
+    <br />
+        <table border="1" align="left">
+            <tr>
+                <th>
+                    <h3>Contents</h3>
+                    <h4>
+                        <a href="#Why" align="left">Why this exists</a> <br />
+                        <a href="#Exist" align="left">
+                            Why THcrapver exists
+                        </a><br />
+                        <a href="#Download" align="left">Downloads</a> <br />
+                        <a href="#Troubleshooting" align="left">Troubleshooting</a> <br />
+                    </h4>
+
+                </th>
+            </tr>
+        </table>
+    <img src="Data/fast.png" align="right" />
+    <br />
+    <table border="1" align="center">
+        <tr>
+            <th>
+                <div class="texx"></div>
+                <br />
+                <h1>DirectDownload Version Readme</h1>
+                <p align="right">version 1.0</p>
+                <br />
+                <p align="left">Thank you for noticing the big red !WARNING! in the loading screen<br />I hope everyone finds it sooner or later...</p>
+                <br />
+                <span class="mw-headline" id="Why"></span>
+                <h2>Why this version exist</h2>
+                <p align="left">The DirectDownload option is for those who<br />  A: Have a very low patience span<br />  B: Want to just download it and run it later or on another PC</p>
+                <br />
+                <span class="mw-headline" id="Exist"></span>
+                <h2>But why does the THcrap Version exists then anyway?</h2>
+                <p align="left">The THcrap version exists because of some powers that thcrap has:<br /><br />-The AutoUpdate function - The program automaticly downloads minor and big Updates without even molesting you<br /> If you download the DirectDownload, be aware, that you have to download everything again for every minor uptate<br /><br />-multi-language function - I'm using this only on German and English yet, but it could be a great help...</p>
+                <br />
+                <span class="mw-headline" id="Download"></span>
+                <h2>Downloads</h2>
+                <p align="left">Versions:</p><p>Version line 0.01<br /><a href="https://www.dropbox.com/s/e7a8wxddkmloiy7/Touhou%208.3%20EN.zip?dl=0">english version 0.01a (~ 0.7gb)</a><br /><a href="https://www.dropbox.com/s/hunksvo7t0vijbe/Touhou%208.3%20DE.zip?dl=0">German Version 0.01a (~ 0.7Gb)</a></p>
+                <span class="mw-headline" id="Troubleshooting"></span>
+                <h2>Troubleshooting</h2>
+                <table align="left">
+                    <tr>
+                        <th>
+                            <p align="left">I have no music.</p>
+                        </th>
+                        <th>
+                            <p align="left">Try to download the program again.<br />if it continues, try to download an older Version</p>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            <p align="left">The program crashes on startup.</p>
+                        </th>
+                        <th>
+                            <p align="left">Try to start it again.<br /><br />If it continues, make sure you don't changed nothing in the th83.exe and th83.dat<br />or Download/unpack it again</p>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            <p align="left">The program crashes randomly.</p>
+                        </th>
+                        <th>
+                            <p align="left">This can not be prevented...<br />You could wat until a saver version of thecl and thdat comes out...<br />(Or til I end up starting troubleshooting my Scripts more)</p>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            <p align="left">The program crashes continuesly when I start a scene.</p>
+                        </th>
+                        <th>
+                            <p align="left">Same as above....<br />Try to restart your Computer and try it again....<br />If you want, you can report the scene and and and to me: reztun@outlook.com</p>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            <p align="left">My problem is not listened above.</p>
+                        </th>
+                        <th>
+                            <p align="left">report it to reztun@outlook.com.<br />I will check it</p>
+                        </th>
+                    </tr>
+                </table>
+</body>
+<script src="Data/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" charset="utf-8">
+    var scrollSpeed = 1; 		// Speed in milliseconds
+    var step = 1; 				// How many pixels to move per step
+    var current = 0;			// The current pixel row
+    var imageWidth = 128;		// Background image width
+    var headerWidth = 128;		// How wide the header is.
+
+    //The pixel row where to start a new loop
+    var restartPosition = -(imageWidth - headerWidth);
+
+    function scrollBg() {
+        //Go to next pixel row.
+        current -= step;
+
+        //If at the end of the image, then go to the top.
+        if (current == restartPosition) {
+            current = 0;
+        }
+
+        //Set the CSS of the header.
+        $('html').css("background-position", current + "px " + current / 2 + "px");
+        $('table').css("background-position", current / 16 + "px " + -current / 3 + "px");
+    }
+
+    //Calls the scrolling function repeatedly
+    var init = setInterval("scrollBg()", scrollSpeed);
+</script>
+
+
+
+
+</html>
