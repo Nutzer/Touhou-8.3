@@ -68,7 +68,7 @@
 	"th143/scene02.png": 44224588,
 	"th143/scene03.png": 4030595117,
 	"th143/screenswitch.anm": 2262883357,
-	"th143/sig.anm": 1467107768,
+	"th143/sig.anm": 2552660903,
 	"th143/thbgm.fmt": 4157868821,
 	"th143/title.anm": 3636112010,
 	"th143/title_v.anm": 266687496,
