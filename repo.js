@@ -5,7 +5,7 @@
 		"Touhou-8.3": "Nutzer's Touhou 8.3"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/Nutzer/Touhou-8.3/master/"
+		"https://raw.githubusercontent.com/Nutzer/Toouhou-8.3/master/"
 	],
 	"title": "Nutzer"
 }
