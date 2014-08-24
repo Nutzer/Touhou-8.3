@@ -17,6 +17,7 @@
 	"Readme/tc.html": 3961574438,
 	"Readme/ww.html": 977020926,
 	"patch.js": 2734775836,
+	"th143.v1.00a.js": 2980778769,
 	"th143/bullet.anm": 847460748,
 	"th143/day01.anm": 923045060,
 	"th143/day01.std": 1199474600,
