@@ -27,7 +27,7 @@
 	"alcostg_custom/stringlocs.v1.00a.js": null,
 	"formats.js": null,
 	"global.js": null,
-	"patch.js": 3640162525,
+	"patch.js": 918263496,
 	"stringdefs.js": null,
 	"th06.js": null,
 	"th06.v0.13.js": null,
@@ -113,7 +113,7 @@
 	"th14/text.v0.01b.anm": null,
 	"th14/text.v1.00a.anm": null,
 	"th14/text.v1.00b.anm": null,
-	"th143.js": 1419763899,
+	"th143.js": null,
 	"th143.v1.00a.js": 2980778769,
 	"th143/ascii/ascii_960.png": 3186463875,
 	"th143/bullet.anm": 847460748,
@@ -188,9 +188,9 @@
 	"th143/tutorial10.png": 687904321,
 	"th143/tutorial11.png": 489265636,
 	"th143/tutorial12.png": 2594841881,
-	"th143_custom/dialog_103.js": 858818701,
-	"th143_custom/stringlocs.v1.00a.js": 736276392,
+	"th143_custom/dialog_103.js": null,
+	"th143_custom/stringlocs.v1.00a.js": null,
 	"th14_custom/dialog_103.js": null,
 	"th14_custom/stringlocs.v1.00b.js": null,
-	"versions.js": 366852127
+	"versions.js": null
 }
