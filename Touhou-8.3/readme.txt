@@ -19,8 +19,11 @@ And that means...
 I prepared a tool for you that changes your normal Touhou 14.3 to Touhou 8.3 and back.
 just place it in your Touhou 14.3 directory
 ATTENTION: While patching, the program downloads a lot of data (~700 MB), so, be ready for it
+https://www.dropbox.com/s/01enn86mv63347y/Data.zip?dl=0
 
 if you don't like the programm, you can download a patched th143.exe and th83bgm.dat here: Data.zip (~700MB)
+https://www.dropbox.com/s/bqbb148t7v12m5t/Touhou%208.3%20Tool.exe?dl=0
+
 
 And which data of the game changes it?
 
