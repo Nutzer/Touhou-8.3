@@ -29,7 +29,7 @@
 	"formats.js": null,
 	"global.js": null,
 	"patch.js": 918263496,
-	"readme.txt": 2271463734,
+	"readme.txt": null,
 	"stringdefs.js": null,
 	"th06.js": null,
 	"th06.v0.13.js": null,
