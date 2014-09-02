@@ -1,0 +1,178 @@
+#
+# 曲のコメント
+#
+
+#0１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０
+@bgm/th125_06
+Foreword
+The Music in this fangame is (at the moment)
+not composed by me but other great people.
+ 
+Under the Main music you can find a list of
+all of them
+　
+　
+　
+　
+
+
+@bgm/th143_01
+No. 1  Led On by a Cow to Visit Zenkou Temple
+♪Led On by a Cow to Visit Zenkou Temple
+　                                                by Zun
+        Title Theme
+Author's Comment:
+　キャラと曲が結びつかないゲームなので、
+　一般的な戦闘曲みたいなのになりました。
+　ステージの長さと曲の長さが釣り合い取れないのは
+　何度もリトライすることが前提だからです。
+
+@bgm/th143_02
+No. 2  ???
+♪???
+　                                                by ???
+        Introduction Theme
+Author's Comment:
+???
+ 
+  
+   
+    
+	 
+
+
+@bgm/th14_03
+No. 3  Cherry Flavored Justice ~ Descending Red
+♪Cherry Flavored Justice ~ Descending Red
+                                   by Anunsew Imprecise
+					Sector 1 + 2 Theme
+  A naive rearrange of my first attempt at Rin Satsuki's theme.
+  Does it sound better now? 
+  I really don't have talent for this. :/
+  
+  It sounds a little too low, I might re-upload a clearer version.
+　
+  
+    
+@bgm/th14_12
+No. 4  Wizard House
+♪Wizard House
+              by Azureflux
+　
+　東方輝針城から再録です。
+　
+　
+　
+　
+　
+	  
+	    
+@bgm/th143_05
+No. 5  Final Sector
+♪Final Sector
+　              by Azureflux
+       Sector 3 Theme
+　
+???
+ 
+  
+   
+    
+@bgm/th125_06
+---------------------Composers--------------------
+The Music in this fangame is (at the moment)
+not composed by me but other great people.
+ 
+Here you can find a list of
+all of them
+  
+  
+  
+  
+@bgm/th143_01
+Co. 1  Zun
+Composer: Zun
+
+Composes Music For the Touhou Project
+and A collection of music CDs
+ 
+Website: http://www16.big.or.jp/~zun/
+　
+　
+　
+　
+　
+	  
+ 
+
+
+
+
+@bgm/th14_03
+Co. 2  Anunsew Imprecise
+Composer: Anunsew Imprecise
+Mainly Makes Touhou remixes or
+composes Themes (mainly for fanmade characters)
+ 
+Youtube: youtube.com/Anunsew Imprecise
+　
+　
+　
+　
+　
+	  
+ 
+
+
+
+  
+      
+@bgm/th143_05
+Co. 3 Azureflux
+Composer: Azureflux
+Makes Remixes and composes
+
+Soundcloud: https://soundcloud.com/azureflux
+　
+　
+　
+　
+　
+	  
+
+@bgm/th125_06
+---------------------Extras----------------------
+The Music in this fangame is (at the moment)
+not composed by me but other great people.
+ 
+Here you can find a list of
+all of them
+ 
+　
+　
+　
+　
+　
+	  
+
+  
+@bgm/th125_06
+Ex. 1 Gathering the mysteries from all around Japan
+Gathering the mysteries from all around Japan
+                                                  by Zun
+ 
+ Music Room Theme
+  
+　
+　
+　
+　
+　
+	  
+   
+    
+	  
+
+  
+  
+  
