@@ -66,7 +66,6 @@
 	"th143/thbgm.fmt": 4157868821,
 	"th143/title.anm": 3636112010,
 	"th143/title_v.anm": 266687496,
-	"th143/titlemsg.txt": 4282348297,
 	"th143/trophy.txt": 2706816422,
 	"th143/tutorial01.png": 4097665289,
 	"th143/tutorial02.png": 589580210,
