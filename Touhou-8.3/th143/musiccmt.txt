@@ -28,16 +28,12 @@ Author's Comment:
 　何度もリトライすることが前提だからです。
 
 @bgm/th143_02
-No. 2 奇跡の向こうで
-♪奇跡の向こうで (beyond the miracle)
-　                                                     by yosiyosi
+No. 2  ???
+♪???
+　                                                by ???
         Introduction Theme
 Author's Comment:
-表向きは東方のどこか道中をイメージしてます。
-いつものようなダラダラと飽きそうな構成は避けようと、
-色々と模索して出来上がったいつものダラダラした曲。
-また、中古で入手したSD-90を初めて使用しました。SD-90とソフト音源のちゃんぽんです。
- 
+???
  
   
    
@@ -46,28 +42,24 @@ Author's Comment:
 
 
 @bgm/th14_03
-No. 3  二色競対抗 ～ Red or White
-♪二色競対抗 ～ Red or White
-                                   by yosiyosi
-					Timezone 1 + 2 Theme
-一年ほど前からこのタイトルで何か作りたくてうずうずしてました。
-思いついた当初は運動会でお馴染みのBGMをいくつかメドレーっぽく繋ぐ予定だったのですが、
-ビフォーアフターの時のように各曲解析している時間がなかったので、「天国と地獄」に絞り込んだアレンジとなりました。
-露骨に移旋したらあまりぱっとしない曲になってしまったので、いつかきちんとしたものを作ってみたいです。
-
-この曲は約1ヶ月前の第4回東方ニコ童祭で投稿したもので、MP3はその修正版となります。
-ちなみに、東方風はニコ童祭の趣向からずれてると思うので、次回からはまともなアレンジを投稿します。
+No. 3  Cherry Flavored Justice ~ Descending Red
+♪Cherry Flavored Justice ~ Descending Red
+                                   by Anunsew Imprecise
+					Sector 1 + 2 Theme
+  A naive rearrange of my first attempt at Rin Satsuki's theme.
+  Does it sound better now? 
+  I really don't have talent for this. :/
+  
+  It sounds a little too low, I might re-upload a clearer version.
 　
   
     
 @bgm/th14_12
-No. 4  CATHARSIS SYNDROME
-♪CATHARSIS SYNDROME
-              by yosiyosi
-　Author's comment:
-短いフレーズをクドく使い回した単純な曲です。
-最初はゲーム曲のつもりでしたが、やりたい事を詰め込みすぎて、
-到底ゲームでは使えない変な曲になりました(笑)
+No. 4  Wizard House
+♪Wizard House
+              by Azureflux
+　
+　東方輝針城から再録です。
 　
 　
 　
@@ -76,9 +68,9 @@ No. 4  CATHARSIS SYNDROME
 	  
 	    
 @bgm/th143_05
-No. 5  Wizard House
-♪Wizard House
-              by Azureflux
+No. 5  Final Sector
+♪Final Sector
+　              by Azureflux
        Sector 3 Theme
 　
 ???
