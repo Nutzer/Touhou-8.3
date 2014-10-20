@@ -1,6 +1,6 @@
 {
 	"contact": "reztun@outlook.de",
-	"id": "Touhou-8.3",
+	"id": "Nutzer",
 	"patches": {
 		"Touhou-8.3": "Nutzer's Touhou 8.3 (Demo 0.1a)"
 	},
