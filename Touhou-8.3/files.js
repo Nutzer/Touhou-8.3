@@ -28,7 +28,7 @@
 	"th143/ec_0303.ecl": 1257060844,
 	"th143/ec_0304.ecl": 3164129584,
 	"th143/ec_0909.txt": null,
-	"th143/effect.anm": 3746596747,
+	"th143/effect.anm": 1408489548,
 	"th143/enm01.anm": 3773348750,
 	"th143/enm01b.anm": 288540018,
 	"th143/enm01c.anm": null,
