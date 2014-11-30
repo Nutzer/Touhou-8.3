@@ -19,11 +19,11 @@ Jou just saw a secret message.
 But it won't help you
 
 
-@0,100
+@0,50
 To bad, Huh?
 Hehehe... I'm not giving you a hint!
 
-@0,100
+@0,50
 Anata ga awruidesu
 ~あなたが悪いです~
 
@@ -79,7 +79,7 @@ You're strong! I HAVE to know that
 Lets beat the foe!
 It's just a matter of time!
 
-@0,100
+@0,70
 This message has an 70 percent chance of popping up.
 At the moment there are [35] messages to choose from.
 
