@@ -1,0 +1,155 @@
+﻿# ---------------------------------
+# ゲームオーバー時のヒント
+# 0 : アイテム３つ
+# 1 : アイテム６つ
+# 2 : アイテム９つ
+# 3 : サブアイテムあり
+# ヒントはランダム
+# 後ろの数字は確率(全部の数字を足して分母にした確率)
+#
+
+
+#0１２３４５６７８９０１２３４５６７８９０１
+@0,1
+(If you are seeing this you must die a lot...)
+This message is Rare! Make sure to remember it!
+
+@0,10
+Jou just saw a secret message.
+But it won't help you
+
+
+@0,100
+To bad, Huh?
+Hehehe... I'm not giving you a hint!
+
+@0,100
+Anata ga awruidesu
+~あなたが悪いです~
+
+@0,100
+Uhm... You died.
+Just saying...
+
+@0,100
+Lol you´re dead!
+^^
+
+@0,100
+Jay, you died
+I lack of ideas!
+
+@0,100
+This is not fake difficulty
+this is just hard.
+
+@0,100
+Come on!
+This is easy!
+
+@0,100
+Mima Hijack
+Lol
+
+@0,100
+You. are. not.
+ 
+
+@0,100
+couldn't see his face but              
+          I could see the back of his body...
+
+@0,100
+He had blue scrubs on...
+
+
+@0,100
+[I never was in Braunschweig]
+
+
+@0,100
+...
+Could you play a little bit better? Just a little?
+
+@0,100
+You're strong! I HAVE to know that 
+(I programmed your charackter in the end)
+
+@0,100
+Lets beat the foe!
+It's just a matter of time!
+
+@0,100
+This message has an 70 percent chance of popping up.
+At the moment there are [35] messages to choose from.
+
+@0,100
+Have you encountered all 35 messages yet?
+This is number thirty-six
+@0,100
+A cobbler should stick to his last
+Don't overstrain yourself^^
+
+@0,100
+A danger foreseen is a danger avoided.
+Every pattern has holes^^
+
+@0,100
+Remember your Souls^^
+A friend in need is a friend indeed.
+
+@0,100
+A penny saved is a penny got
+Just level up step by step^^
+
+@0,100
+A rolling stone gathers no moss.
+Take it easy^^
+
+@0,100
+Actions speak louder than words.
+Don't read, fight!
+
+@0,100
+All mouth and no trousers, huh?
+ 
+ 
+@0,100
+Dirty water will quench fire.
+Don't mind abusing Savespots!
+
+@0,100
+Saru mo ki kara ochiru.
+~猿も木から落ちる~
+
+@0,100
+Just try again
+~弁慶の泣き所~
+
+@0,100
+Ikihaji kaku yori, shinu ga mashi
+~生き恥かくより 死ぬがまし~
+
+@0,100
+Baka wa shinanakya naoranai.
+~馬鹿は死ななきゃ直らない~
+
+@0,100
+Yudan taiteki.
+~油断大敵~
+
+@0,100
+Kanjō atte, zeni tarazu
+~勘定合って銭足らず~
+
+@0,100
+So you died...
+Well done!
+
+@0,100
+You're good!
+Keep up the good work!
+
+@1,100
+New Items - New Messages
+Lets Speak further~

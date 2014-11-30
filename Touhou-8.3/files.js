@@ -44,6 +44,7 @@
 	"th143/enm19.anm": 4163001825,
 	"th143/enm30.anm": 462941850,
 	"th143/front.anm": 3060452738,
+	"th143/hint.txt": 1130336317,
 	"th143/itemequip.anm": 189899087,
 	"th143/msg01.msg": 4184480180,
 	"th143/msg01de.msg": 4174251478,
