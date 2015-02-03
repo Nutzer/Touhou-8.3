@@ -85,30 +85,30 @@ At the moment there are [35] messages to choose from.
 
 @0,100
 Have you encountered all 35 messages yet?
-This is number thirty-six
+This is number thirty-six... Wait, what?
 @0,100
 A cobbler should stick to his last
 Don't overstrain yourself^^
 
 @0,100
 A danger foreseen is a danger avoided.
-Every pattern has holes^^
+
 
 @0,100
-Remember your Souls^^
 A friend in need is a friend indeed.
+
 
 @0,100
 A penny saved is a penny got
-Just level up step by step^^
+
 
 @0,100
 A rolling stone gathers no moss.
-Take it easy^^
+
 
 @0,100
 Actions speak louder than words.
-Don't read, fight!
+
 
 @0,100
 All mouth and no trousers, huh?
@@ -116,7 +116,7 @@ All mouth and no trousers, huh?
  
 @0,100
 Dirty water will quench fire.
-Don't mind abusing Savespots!
+
 
 @0,100
 Saru mo ki kara ochiru.
@@ -149,6 +149,10 @@ Well done!
 @0,100
 You're good!
 Keep up the good work!
+
+@0,100
+Did you know ~#1~
+that Touhou has an unofficial debug version?
 
 @1,100
 New Items - New Messages
