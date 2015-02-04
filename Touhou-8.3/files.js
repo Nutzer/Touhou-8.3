@@ -52,7 +52,7 @@
 	"th143/help_05.png": 286256075,
 	"th143/help_06.png": 286256075,
 	"th143/help_07.png": 286256075,
-	"th143/hint.txt": 981155993,
+	"th143/hint.txt": 1059365956,
 	"th143/itemequip.anm": 189899087,
 	"th143/msg01.msg": 4184480180,
 	"th143/msg01de.msg": 4174251478,

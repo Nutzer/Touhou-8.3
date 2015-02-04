@@ -61,11 +61,11 @@ couldn't see his face but
 
 @0,100
 He had blue scrubs on...
-
+ 
 
 @0,100
 [I never was in Braunschweig]
-
+ 
 
 @0,100
 ...
@@ -86,37 +86,38 @@ At the moment there are [35] messages to choose from.
 @0,100
 Have you encountered all 35 messages yet?
 This is number thirty-six... Wait, what?
+
 @0,100
 A cobbler should stick to his last
 Don't overstrain yourself^^
 
 @0,100
 A danger foreseen is a danger avoided.
-
+ 
 
 @0,100
 A friend in need is a friend indeed.
-
+ 
 
 @0,100
 A penny saved is a penny got
-
+ 
 
 @0,100
 A rolling stone gathers no moss.
-
+ 
 
 @0,100
 Actions speak louder than words.
-
+ 
 
 @0,100
 All mouth and no trousers, huh?
- 
+  
  
 @0,100
 Dirty water will quench fire.
-
+ 
 
 @0,100
 Saru mo ki kara ochiru.
