@@ -1,4 +1,5 @@
 {
+	"Readme.txt": 187132523,
 	"patch.js": 4057993532,
 	"stringdefs.js": 1551819254,
 	"th143.v1.00a.js": 2980778769,
@@ -7,11 +8,8 @@
 	"th143/day01.std": 1199474600,
 	"th143/day02.anm": 3627501666,
 	"th143/day02.std": 3403671266,
-	"th143/day02x.anm": null,
-	"th143/day02x.std": null,
 	"th143/day03.anm": 2623781431,
 	"th143/day03.std": 1537319033,
-	"th143/day07.anm": null,
 	"th143/default.ecl": 1993996628,
 	"th143/dialog_203.js": 283710919,
 	"th143/ec_0101.ecl": 3300801943,
@@ -54,10 +52,10 @@
 	"th143/help_07.png": 286256075,
 	"th143/hint.txt": 1059365956,
 	"th143/itemequip.anm": 189899087,
-	"th143/msg01.msg": 4184480180,
-	"th143/msg01de.msg": 4174251478,
-	"th143/msg03.msg": 3360687639,
-	"th143/msg03de.msg": 2875544773,
+	"th143/msg01.msg": 2597934862,
+	"th143/msg01de.msg": null,
+	"th143/msg03.msg": 2763895571,
+	"th143/msg03de.msg": null,
 	"th143/musiccmt.js": 2349845854,
 	"th143/musiccmt.txt": 329942963,
 	"th143/notice_01.png": 2490454277,
@@ -97,5 +95,6 @@
 	"th143/tutorial09.png": 3624277298,
 	"th143/tutorial10.png": 687904321,
 	"th143/tutorial11.png": 489265636,
-	"th143/tutorial12.png": 2594841881
+	"th143/tutorial12.png": 2594841881,
+	"th83bgm.dat": null
 }
