@@ -1,5 +1,5 @@
 {
-	"Readme.txt": 3390841854,
+	"Readme.txt": 187132523,
 	"patch.js": 4057993532,
 	"stringdefs.js": 1551819254,
 	"th143.v1.00a.js": 2980778769,

@@ -1,4 +1,4 @@
-=== Touhou 8.3 Readme === 
+﻿=== Touhou 8.3 Readme === 
 
 This hack uses its own Configuration, Replay and Savegame files.
 
